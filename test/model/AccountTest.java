@@ -46,7 +46,7 @@ public class AccountTest {
     }
 
     @Test
-    public void testGetBalanceIs100AfterDeposit500ThenWithdraw100() {
+    public void testGetBalanceIs100AfterDeposit500ThenWithdraw400() {
         
     }
     
